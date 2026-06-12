@@ -57,7 +57,11 @@ There are some scripts to print some specific PVs on the terminal.
 
 ```
 bash get_current.sh
+```
+```
 bash get_integrator.sh
+```
+```
 bash get_machine_status.sh
 ```
 

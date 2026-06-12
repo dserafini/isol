@@ -53,6 +53,14 @@ Timestamp,DlDiagDgbx01A_Fcup01:CurrAv,Dl1SourIonz01A_Hcps02:Imon
 
 Checking once every some time is good practice.
 
+There are some scripts to print some specific PVs on the terminal.
+
+```
+bash get_current.sh
+bash get_integrator.sh
+bash get_machine_status.sh
+```
+
 ## Oven controller
 
 **To test**
